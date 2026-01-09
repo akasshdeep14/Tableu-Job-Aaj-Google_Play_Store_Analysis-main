@@ -1,6 +1,6 @@
 # TB01-Google_Play_Store_Analysis  
 
-Tableau Dashboard Link:- https://public.tableau.com/views/Book1_17557973916120/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
+ 
 
 he Google Play Store App Insights Dashboard successfully consolidates multiple performance dimensions—ratings, installs, reviews, update trends, app size, and genre—into a single, interactive view that supports data-driven decision-making.
 
